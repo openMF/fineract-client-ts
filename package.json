@@ -2,7 +2,7 @@
   "name": "@mifos/client",
   "version": "1.12.1",
   "description": "OpenAPI client for @mifos/client",
-  "author": "OpenAPI-Generator Contributors",
+  "author": "Mifos Community",
   "repository": {
     "type": "git",
     "url": "https://github.com/GIT_USER_ID/GIT_REPO_ID.git"
