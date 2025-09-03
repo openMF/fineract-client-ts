@@ -3,7 +3,12 @@
 
 name: Node.js Package
 
-on:
+on:  
+  # Triggers the workflow on push or pull request events for specific branches
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
   release:
     types: [created]
 
