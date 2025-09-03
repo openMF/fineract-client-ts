@@ -6,9 +6,9 @@ name: Node.js Package
 on:  
   # Triggers the workflow on push or pull request events for specific branches
   push:
-    branches: [main]
+    branches: [dev]
   pull_request:
-    branches: [main]
+    branches: [dev]
   release:
     types: [created]
 
