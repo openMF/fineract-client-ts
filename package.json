@@ -11,7 +11,7 @@
     "openapi-client",
     "openapi-generator"
   ],
-  "license": "Mozilla",
+  "license": "Mozilla Public License 2.0",
   "scripts": {
     "build": "ng-packagr -p ng-package.json"
   },
